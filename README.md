@@ -33,15 +33,10 @@ This project is beneficial for businesses seeking to enhance their customer rela
 ## Getting Started with the Project
 To use this project, clone the repository from GitHub, install the required libraries listed in the requirements.txt file, and run the Jupyter Notebook included. The notebook contains detailed code and explanations for each step of the analysis.
 
-```
-git clone [GitHub-Repo-Link]
-cd [Project-Folder]
-pip install -r requirements.txt
-```
 
 ## How to Contribute
-We welcome contributions to this project! Please read the contributing guidelines before making any changes. For major changes, please open an issue first to discuss what you would like to change.
+Contributions to this project are welcomed! Please read the contributing guidelines before making any changes. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-Feel free to customize this template according to your project's specific needs and details.
+For more queries, Connect with me at: urvashidube208@gmail.com
